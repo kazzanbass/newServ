@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/eniac/Programming/server/src/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/eniac/Programming/server/src/main.cpp",
+  "file": "/home/eniac/Programming/server/src/main.cpp"
+}
+]
